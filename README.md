@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Formalizing Euclidean Geometry in Four Dimensions Using Lean
 
 ## Introduction
@@ -82,3 +83,6 @@ One of the most challenging aspects of the project was trying to understand the 
 Noah Rainbow
 
 MATH 157 Final Project
+=======
+# LeanCodingProject
+>>>>>>> 37513b9331efc5041b71eefd4cf28aff90a8e5ec
