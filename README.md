@@ -84,4 +84,3 @@ Noah Rainbow
 MATH 157 Final Project
 =======
 # LeanCodingProject
->>>>>>> 37513b9331efc5041b71eefd4cf28aff90a8e5ec
