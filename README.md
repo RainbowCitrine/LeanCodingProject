@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Formalizing Euclidean Geometry in Four Dimensions Using Lean
 
 ## Introduction
